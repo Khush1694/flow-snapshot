@@ -23,3 +23,4 @@ This is a mobile client for Android (and hopefully soon iOS) to submit snapshots
 #### For more recent versions
 
 `react-native run-android --variant=release`
+
